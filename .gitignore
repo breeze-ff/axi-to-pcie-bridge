@@ -1,0 +1,15 @@
+# VCS 编译产物
+sim/sim_out/
+sim/logs/
+sim/coverage/
+csrc/
+*.log
+*.fsdb
+*.vpd
+*.vdb
+*.rc
+*.conf
+ucli.key
+vc_hdrs.h
+verdiLog/
+novas.rc
