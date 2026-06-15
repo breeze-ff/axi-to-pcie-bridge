@@ -81,7 +81,7 @@ axi2pcie/
 │   │   ├── base_sequence.sv      # 基类（send_write / send_read 封装）
 │   │   ├── wr_sequence.sv        # 写路径场景序列
 │   │   ├── rd_sequence.sv        # 读路径场景序列
-│   │   ├── virtual_sequencer.sv  # Virtual Sequencer（跨 Agent 协调）
+│   │   ├── virtual_sequencer.sv  # Virtual Sequencer（可以不用这里是为了学习加上去）
 │   │   └── virtual_sequence.sv   # 并发读写序列
 │   │
 │   └── test/                     # UVM Test
